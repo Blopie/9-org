@@ -1,0 +1,34 @@
+.left{
+  float: left ;
+  width: 25% ;
+  height: 250px ;
+  Background: aqua ;
+}
+.center{
+  float: left ;
+  width: 50% ;
+  height: 250px ;
+ background: linear-gradient(to right, pink,MediumSlateBlue  , rgb(4, 1490, 206));
+  text-align: center ; 
+}
+.right{
+  float: left ;
+  width: 25% ;
+  height: 250px ;
+  Background: aqua ;
+}
+img{
+  width: 100% ;
+  height: 250px ;
+}
+body{
+   background: linear-gradient(to right, pink,MediumSlateBlue  , rgb(4, 1490, 206));
+}
+.lamp{
+  font-size:25px;
+  background:aqua;
+}
+.gamp{
+  font-size:25px;
+ background: linear-gradient(to right, olive,MediumSlateBlue  , rgb(4, 1490, 206));
+}
